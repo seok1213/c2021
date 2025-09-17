@@ -5,5 +5,6 @@ public class Main {
 		System.out.println("이석환");
 		world.run();
 		Hello.run();
+		World.run2();
 	}
 }
